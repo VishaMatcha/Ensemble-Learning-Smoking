@@ -12,8 +12,7 @@ The dataset used for this project is publicly available on **Kaggle** and contai
 - **Lifestyle factors**  
 It is used to train different machine learning models to classify individuals as **smokers or non-smokers**.
 
-🔗 **Dataset Source:** [Available on Kaggle](https://www.kaggle.com/) *(Replace with actual link)*
-
+🔗 **Dataset Source:** [Available on Kaggle](https://www.kaggle.com/)
 ---
 
 ## **Machine Learning Pipeline**
@@ -76,7 +75,7 @@ The results from various models show their ability to predict smoking status. Be
 ## **Usage Instructions**
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/SmokingHistoryPrediction.git
+git clone https://github.com/VishaMatcha/Ensemble-Learning-Smoking.git
 cd SmokingHistoryPrediction
 ```
 
