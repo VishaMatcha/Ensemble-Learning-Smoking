@@ -72,3 +72,21 @@ The results from various models show their ability to predict smoking status. Be
 - **Gradient Boosting and Neural Networks performed best** in terms of **accuracy and generalization**.
 - **Random Forest (Sklearn) showed overfitting**, achieving **100% accuracy** on training data but lower generalization on validation.
 - **The ensemble model (hard voting) provided stable predictions**, leveraging the strengths of multiple classifiers.
+
+## **Usage Instructions**
+### **1. Clone the Repository**
+```sh
+git clone https://github.com/your-username/SmokingHistoryPrediction.git
+cd SmokingHistoryPrediction
+```
+
+### **2. Install Dependencies**
+```sh
+pip install -r requirements.txt
+```
+
+### **3. Run Jupyter Notebooks**
+Launch Jupyter Notebook and execute the machine learning models:
+```sh
+jupyter notebook
+```
