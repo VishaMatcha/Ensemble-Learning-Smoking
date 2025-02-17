@@ -42,7 +42,7 @@ The dataset was processed and analyzed through the following pipeline:
    - **F1-Score**
 
 📌 **Pipeline Overview:**  
-![Pipeline](your_image_link_here) *(Replace with actual image link or upload it in the repo and reference it here.)*
+[Pipeline](img/pipeline.png) 
 
 ---
 
