@@ -90,3 +90,14 @@ Launch Jupyter Notebook and execute the machine learning models:
 ```sh
 jupyter notebook
 ```
+
+## **Authors**
+- **Vasanthakumar Shanmugavadivel**
+- **Ramsundar Konety Govindarajan**
+- **Deepakindresh Narayana Gandhi**
+- **Venkata Ranga Sai Vishal Matcha**
+- **Sudhanshu Nitin Gulhane**
+
+For inquiries or collaboration, feel free to connect!
+
+---
