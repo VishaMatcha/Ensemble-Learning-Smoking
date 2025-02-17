@@ -67,3 +67,8 @@ The results from various models show their ability to predict smoking status. Be
 | **SVM**               | 82%             | 83%             |
 | **Random Forest**      | 82%             | 100% (Overfitting Issue) |
 | **AdaBoost**          | 75%             | 78%             |
+
+📌 **Key Insights:**
+- **Gradient Boosting and Neural Networks performed best** in terms of **accuracy and generalization**.
+- **Random Forest (Sklearn) showed overfitting**, achieving **100% accuracy** on training data but lower generalization on validation.
+- **The ensemble model (hard voting) provided stable predictions**, leveraging the strengths of multiple classifiers.
