@@ -41,3 +41,29 @@ The dataset was processed and analyzed through the following pipeline:
    - **Precision**
    - **Recall**
    - **F1-Score**
+
+📌 **Pipeline Overview:**  
+![Pipeline](your_image_link_here) *(Replace with actual image link or upload it in the repo and reference it here.)*
+
+---
+
+## **Results & Findings**
+The results from various models show their ability to predict smoking status. Below are the key findings:
+
+### **1. Hyperparameter Tuning Results**
+- **Gradient Boosting Classifier (GB)**
+  - Best Accuracy: **85% (Sklearn), 84% (Scratch)**
+  - Best Precision: **86%**
+- **Neural Network**
+  - Best Accuracy: **83%**
+- **Support Vector Machine (SVM)**
+  - Accuracy: **82% (Scratch), 83% (Sklearn)**
+
+### **2. Model Comparison (Cross Validation)**
+| Model                  | Scratch Accuracy | Sklearn Accuracy |
+|------------------------|-----------------|-----------------|
+| **Gradient Boosting**  | 84%             | 85%             |
+| **Neural Network**     | 82%             | 83%             |
+| **SVM**               | 82%             | 83%             |
+| **Random Forest**      | 82%             | 100% (Overfitting Issue) |
+| **AdaBoost**          | 75%             | 78%             |
