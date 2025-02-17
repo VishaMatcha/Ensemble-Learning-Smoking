@@ -15,3 +15,29 @@ It is used to train different machine learning models to classify individuals as
 🔗 **Dataset Source:** [Available on Kaggle](https://www.kaggle.com/) *(Replace with actual link)*
 
 ---
+
+## **Machine Learning Pipeline**
+The dataset was processed and analyzed through the following pipeline:
+
+1. **Data Preprocessing & Principal Component Analysis (PCA)**  
+   - Handling missing values
+   - Normalizing features
+   - Dimensionality reduction using PCA
+
+2. **Splitting the Dataset**  
+   - **70% Training Data**, **30% Testing Data**
+
+3. **Model Training & Evaluation**  
+   The following machine learning models were implemented and compared:
+   - **AdaBoost Classifier**
+   - **Support Vector Machine (SVM)**
+   - **Random Forest Classifier**
+   - **Gradient Boosting Classifier**
+   - **Neural Network Classifier**
+   - **Hard Voting Ensemble (Combining multiple models)**
+
+4. **Comparison of Model Performance Metrics**  
+   - **Accuracy**
+   - **Precision**
+   - **Recall**
+   - **F1-Score**
